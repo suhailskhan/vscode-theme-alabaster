@@ -1,6 +1,5 @@
 {
-	"name": "theme-alabaster",
-	"description": "A dark theme with minimal amount of highlighting, based on VS Code’s Dark Modern theme",
+	"name": "theme-alabaster-dark-modern",
 	"displayName": "Alabaster Theme (Dark)",
 	"version": "0.1.0",
 	"publisher": "suhailskhan",
