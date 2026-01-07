@@ -34,11 +34,8 @@ More on Alabaster itself:
 ## Install
 
 1. Go to `Extensions`
-2. Search for `suhailskhan.theme-alabaster`
+2. Search for `suhailskhan.theme-alabaster-dark-modern`
 3. Install
-
-<!-- Uncomment when published to VS Code Marketplace -->
-<!-- Or alternatively open the extension webpage in browser and install from there: https://marketplace.visualstudio.com/items?itemName=tonsky.theme-alabaster -->
 
 ## Credits
 
