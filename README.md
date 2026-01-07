@@ -1,5 +1,12 @@
 # Alabaster Theme
 
+> [!NOTE]
+> This repository is archived and the extension is no longer maintained.
+>
+> Additionally, the extension has been **delisted** from the VS Code Marketplace.
+>
+> Anyone who enjoys this theme is encouraged to fork this repository and publish the extension to the VS Code Marketplace themselves.
+
 A dark theme for [Visual Studio Code](http://code.visualstudio.com) with minimal syntax highlighting, based on [Nikita Prokopov’s Alabaster](https://marketplace.visualstudio.com/items?itemName=tonsky.theme-alabaster) and VS Code’s Dark Modern color theme.
 
 ## Motivation
@@ -33,9 +40,21 @@ More on Alabaster itself:
 
 ## Install
 
-1. Go to `Extensions`
-2. Search for `suhailskhan.theme-alabaster-dark-modern`
-3. Install
+1. Clone this repository
+2. Install dependencies: `npm install`
+3. Build the extension: `vsce package`
+4. Install the `.vsix` file in VS Code: `Extensions: Install from VSIX...`
+
+Alternatively, you can symlink the theme directory to your VS Code extensions folder for development:
+
+```bash
+ln -s $(pwd) ~/.vscode/extensions/theme-alabaster-dark-modern
+```
+
+<!-- Should you decide to publish this extension, uncomment the instructions below and delete the instructions above. -->
+<!-- 1. Go to `Extensions`
+2. Search for `suhailskhan.theme-alabaster-dark-modern` (CHANGE EXTENSION IDENTIFIER)
+3. Install -->
 
 ## Credits
 
