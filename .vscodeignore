@@ -2,4 +2,6 @@
 .gitignore
 .DS_Store
 screenshot.png
+publish.sh
+playground.*
 *.vsix
